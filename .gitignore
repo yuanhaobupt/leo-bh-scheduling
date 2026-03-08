@@ -1,0 +1,33 @@
+# MATLAB
+*.mat
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.slx
+*.mdl
+*.p
+
+# Results (large files)
+results/*.mat
+results/*.png
+results/*.fig
+*.eps
+
+# Data files
+DataObj.mat
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*~
