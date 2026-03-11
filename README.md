@@ -2,7 +2,18 @@
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2024a-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Fixed-brightgreen.svg)](https://github.com/yuanhaobupt/leo-bh-scheduling/releases)
 
+> **⚠️ 重要更新 (2026-03-11): 所有代码错误已修复！**
+> 
+> 如果您之前克隆过此仓库，请立即更新：
+> ```bash
+> git pull origin main
+> ```
+> 
+> 详见 [修复报告](FIXES_COMPLETED.md) 和 [更新日志](CHANGELOG.md)
+
+---
 
 This repository contains the MATLAB implementation of the Radio Resource Allocation for Beam Hopping Scheduling in LEO Satellite Communications: A Spatio-Temporal Perspective.
 
